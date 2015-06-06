@@ -1,0 +1,44 @@
+<HTML><TITLE>Michael's Notes'</TITLE>
+<BODY>
+<BR>
+<CENTER>My notes for Introduction to Programming Nanodegree</CENTER><BR>
+<BR>
+<EM>Important Acronyms</EM><BR>
+<BR>
+<B>HTML</B> = Hyper Text Markup Language<BR>
+<B>HTTP</B> = Hyper Text Transfer Protocol<BR>
+<B>FTP</B> = File Transfer Protocol<BR>
+<B>URL</B> = Universal Resource Locator<BR>
+<B>CSS</B> = Cascading Style Sheets<BR>
+More to come.
+<P>
+Web browsers intepret HTML by use of tags. Tags are commands encased within <  > symbols. Between the symbols is the command you want to give the computer (or the computer's web browser. There are too many tags to remember so it is best to remember just the common tags and understand the key concepts. The details can be looked up as needed.</P>
+<P>
+Most tags need an open and close command. The Close command is represented the same way as the open command with the difference of a / symbol being placed infront of the command between the < > symbols. However, not all commands need the close; these are called void tags. Examples of void tags will be below.</P>
+<EM>Common Tags</EM><BR>
+<BR>
+B = bold<BR>
+EM = emphasis (italics)<BR>
+I = italics also<BR>
+CENTER = center text<BR>
+DEL = delete line through <DEL>text</DEL><BR>
+A = anchor<BR>
+P = paragraph<BR>
+<BR>
+<EM>Void Tags</EM><BR>
+<BR>
+BR = line break<BR>
+IMG = image link<BR>
+<BR>
+<EM>The Power of Hyperlinks</EM><BR>
+<P>
+A hyperlink will link your specified text to another URL. A hyperlink starts with an anchor tag A, followed by a HREF=, followed by the URL in parenthesis. Such as A HREF="http://www.bing.com" enclosed within the < >. If done correctly, a underline will appear under your desired text indicating it is a clickable link and look like this: <A HREF="http://www.bing.com">Bing</A>.</P>
+
+<EM>Helpful Tips (or my preferences really)</EM><BR>
+<BR>
+Typing commands in all caps helps make the commands standout from the text.<BR>
+As with all documents, proofread your text as well as your code.<BR>
+Practice makes perfect and <A HREF http://scratchpad.io> ScratchpadIO</A> is great for practice!<BR>
+Place punctuation outside hyperlinks. (It just looks better)<BR>
+Copy and paste is your friend.
+</BODY></HTML>
